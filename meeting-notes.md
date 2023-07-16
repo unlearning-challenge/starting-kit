@@ -16,3 +16,9 @@ Sources:
 - <a href="http://hdc.cs.arizona.edu/~mwli/post--grand-tour/public/">Post Grand Tour Visualizing Image classification learning in linear spaces </a>
 - <a href="https://github.com/sushmaakoju/image_sampling/blob/main/src/notebooks/match_template_pixel_counter.ipynb">match_template_pixel_counter.ipynb</a>
 - <a href="https://www.kaggle.com/code/aliabdin1/find-similar-images-with-cosine-similarity">find-similar-images-with-cosine-similarity</a>
+
+Some surveys (not sure if they're good):
+- <a href=https://doi-org.ezproxy2.library.arizona.edu/10.1145/3603620> Machine Unlearning: A Survey </a>
+- <a href=https://doi.org/10.1007/s42979-023-01767-4> A Review of Machine Unlearning </a>
+- <a href=https://arxiv.org/abs/2305.06360> Exploring the Landscape of Machine Unlearning: A Comprehensive Survey and Taxonomy </a>
+- <a href=https://arxiv.org/abs/2305.07512> Learn to Unlearn: A Survey on Machine Unlearning </a>

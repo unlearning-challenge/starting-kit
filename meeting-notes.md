@@ -16,3 +16,5 @@ Sources:
 - <a href="http://hdc.cs.arizona.edu/~mwli/post--grand-tour/public/">Post Grand Tour Visualizing Image classification learning in linear spaces </a>
 - <a href="https://github.com/sushmaakoju/image_sampling/blob/main/src/notebooks/match_template_pixel_counter.ipynb">match_template_pixel_counter.ipynb</a>
 - <a href="https://www.kaggle.com/code/aliabdin1/find-similar-images-with-cosine-similarity">find-similar-images-with-cosine-similarity</a>
+- <a href="https://www.cambridge.org/core/journals/memory-mind-and-media/article/towards-erasure-studies-excavating-the-material-conditions-of-memory-and-forgetting/6602A09DB6E4832E712C868A569C4112">towards-erasure-studies-excavating-the-material-conditions-of-memory-and-forgetting</a>
+- <a href="https://www.techtarget.com/whatis/definition/lossless-and-lossy-compression#:~:text=In%20lossy%20compression%2C%20the%20data,loss%20is%20not%20usually%20noticeable.">lossless-and-lossy-compression</a>
